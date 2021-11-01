@@ -1,0 +1,15 @@
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\obj\Debug\net5.0\ExamProgramCoreLayer.csprojAssemblyReference.cache
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\obj\Debug\net5.0\ExamProgramCoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\obj\Debug\net5.0\ExamProgramCoreLayer.AssemblyInfoInputs.cache
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\obj\Debug\net5.0\ExamProgramCoreLayer.AssemblyInfo.cs
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\obj\Debug\net5.0\ExamProgramCoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\bin\Debug\net5.0\ExamProgramCoreLayer.deps.json
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\bin\Debug\net5.0\ExamProgramCoreLayer.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\bin\Debug\net5.0\ref\ExamProgramCoreLayer.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\bin\Debug\net5.0\ExamProgramCoreLayer.pdb
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\bin\Debug\net5.0\ExamProgramEntities.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\bin\Debug\net5.0\ExamProgramEntities.pdb
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\obj\Debug\net5.0\ExamProgramCoreLayer.csproj.CopyComplete
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\obj\Debug\net5.0\ExamProgramCoreLayer.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\obj\Debug\net5.0\ref\ExamProgramCoreLayer.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramCoreLayer\obj\Debug\net5.0\ExamProgramCoreLayer.pdb

@@ -1,0 +1,21 @@
+<div *ngIf="success==false" class="spinner-border text-primary" role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
+<table *ngIf="success==true" class="table">
+    <thead>
+      <tr>
+        <th scope="col">Şagirdin Nömrəsi</th>
+        <th scope="col">Adı</th>
+        <th scope="col">Soyadı</th>
+        <th scope="col">Sinifi</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let s of model">
+        <td>{{s.studentNumber}}</td>
+        <td>{{s.studentName}}</td>
+        <td>{{s.studentSurname}}</td>
+        <td>{{s.studentClass}}</td>
+      </tr>
+    </tbody>
+  </table>

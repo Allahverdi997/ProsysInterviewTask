@@ -1,0 +1,12 @@
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\obj\Debug\net5.0\ExamProgramEntities.csprojAssemblyReference.cache
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\obj\Debug\net5.0\ExamProgramEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\obj\Debug\net5.0\ExamProgramEntities.AssemblyInfoInputs.cache
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\obj\Debug\net5.0\ExamProgramEntities.AssemblyInfo.cs
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\obj\Debug\net5.0\ExamProgramEntities.csproj.CoreCompileInputs.cache
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\bin\Debug\net5.0\ExamProgramEntities.deps.json
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\bin\Debug\net5.0\ExamProgramEntities.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\bin\Debug\net5.0\ref\ExamProgramEntities.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\bin\Debug\net5.0\ExamProgramEntities.pdb
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\obj\Debug\net5.0\ExamProgramEntities.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\obj\Debug\net5.0\ref\ExamProgramEntities.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Prosys\ExerciseTwoVS2019\VisualStudio2019Program\ExampleProgram\ExamProgramEntities\obj\Debug\net5.0\ExamProgramEntities.pdb

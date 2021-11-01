@@ -1,0 +1,23 @@
+<div *ngIf="success==false" class="spinner-border text-primary" role="status">
+    <span class="visually-hidden"></span>
+  </div>
+<table *ngIf="success==true" class="table">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Dersin Kodu</th>
+        <th scope="col">Şagirdin Nömrəsi</th>
+        <th scope="col">İmtahan Vaxtı</th>
+        <th scope="col">İmtahan Qiymeti</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let er of model">
+        <td>{{er.id}}</td>
+        <td>{{er.lessonCode}}</td>
+        <td>{{er.studentNumber}}</td>
+        <td>{{er.examDate}}</td>
+        <td>{{er.examValue}}</td>
+      </tr>
+    </tbody>
+  </table>
